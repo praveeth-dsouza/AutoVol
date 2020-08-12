@@ -1,0 +1,222 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "t(Hu ",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "\fSVW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "PSVj\u000b",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "tHSV",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "_^[u",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": ";\r P",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": ";M\ft",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "@^[_",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "PSAPI.DLL",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EmptyWorkingSet",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EnumDeviceDrivers",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EnumPageFilesA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EnumPageFilesW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EnumProcessModules",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "EnumProcesses",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetDeviceDriverBaseNameA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetDeviceDriverBaseNameW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetDeviceDriverFileNameA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetDeviceDriverFileNameW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetMappedFileNameA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetMappedFileNameW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetModuleBaseNameA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetModuleBaseNameW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetModuleFileNameExA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetModuleFileNameExW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetModuleInformation",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetPerformanceInfo",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetProcessImageFileNameA",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetProcessImageFileNameW",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetProcessMemoryInfo",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "GetWsChanges",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "InitializeProcessForWsWatch",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "QueryWorkingSet",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": ";D$\fv",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "SVWU",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "tYVU",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "t?xH",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "SVWUj",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "t.;t$$t(",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "\f_^[",
+        "offset": "0x76b70001"
+    },
+    {
+        "string": "k\fY[",
+        "offset": "0x76b70001"
+    }
+]

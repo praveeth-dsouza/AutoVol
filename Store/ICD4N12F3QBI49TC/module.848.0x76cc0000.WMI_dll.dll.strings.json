@@ -1,0 +1,450 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "vtfh",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "UnhandledExceptionFilter",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "kernel32.dll",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WMI.dll",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "CloseTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ControlTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ControlTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "CreateTraceInstanceId",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "EnableTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetTraceEnableFlags",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetTraceEnableLevel",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetTraceLoggerHandle",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "OpenTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "OpenTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ProcessTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "QueryAllTracesA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "QueryAllTracesW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "RegisterTraceGuidsA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "RegisterTraceGuidsW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "RemoveTraceCallback",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "SetTraceCallback",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "StartTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "StartTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "TraceEvent",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "TraceEventInstance",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "UnregisterTraceGuids",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiCloseBlock",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiDevInstToInstanceNameA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiDevInstToInstanceNameW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiEnumerateGuids",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiExecuteMethodA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiExecuteMethodW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiFileHandleToInstanceNameA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiFileHandleToInstanceNameW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiFreeBuffer",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiMofEnumerateResourcesA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiMofEnumerateResourcesW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiNotificationRegistrationA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiNotificationRegistrationW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiOpenBlock",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiQueryAllDataA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiQueryAllDataW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiQueryGuidInformation",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiQuerySingleInstanceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiQuerySingleInstanceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiSetSingleInstanceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiSetSingleInstanceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiSetSingleItemA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "WmiSetSingleItemW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.CloseTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwControlTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwControlTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwCreateTraceInstanceId",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwEnableTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwGetTraceEnableFlags",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwGetTraceEnableLevel",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwGetTraceLoggerHandle",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.OpenTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.OpenTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.ProcessTrace",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwQueryAllTracesA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwQueryAllTracesW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwRegisterTraceGuidsA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwRegisterTraceGuidsW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.RemoveTraceCallback",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.SetTraceCallback",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwStartTraceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwStartTraceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwTraceEvent",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwTraceEventInstance",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwUnregisterTraceGuids",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiCloseBlock",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiDevInstToInstanceNameA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiDevInstToInstanceNameW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiEnumerateGuids",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiExecuteMethodA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiExecuteMethodW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiFileHandleToInstanceNameA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiFileHandleToInstanceNameW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiFreeBuffer",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiMofEnumerateResourcesA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiMofEnumerateResourcesW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwNotificationRegistrationA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "ntdll.EtwNotificationRegistrationW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiOpenBlock",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiQueryAllDataA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiQueryAllDataW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiQueryGuidInformation",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiQuerySingleInstanceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiQuerySingleInstanceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiSetSingleInstanceA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiSetSingleInstanceW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiSetSingleItemA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "AdvApi32.WmiSetSingleItemW",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "DisableThreadLibraryCalls",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetProcAddress",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetModuleHandleA",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "QueryPerformanceCounter",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetTickCount",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetCurrentThreadId",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetCurrentProcessId",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "GetSystemTimeAsFileTime",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "NB10",
+        "offset": "0x76cc0001"
+    },
+    {
+        "string": "wmi.pdb",
+        "offset": "0x76cc0001"
+    }
+]

@@ -1,0 +1,1370 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "|$\fE",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E$SVW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9} t",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ",Pj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t'9U",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "M\f;A\fu\f3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j X9E",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9Y\ft:",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "HSVW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "G;}\fs0",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Ht)H",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "$;}\fr",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j\fh06",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Stck",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";Heap",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\fS3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "X t=",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "A;M\fr",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "]\fV3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "WWWWS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fWS3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\f$B;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "y\f;x",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AUTHZ.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzAccessCheck",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzAddSidsToContext",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzCachedAccessCheck",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzEnumerateSecurityEventSources",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzFreeAuditEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzFreeContext",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzFreeHandle",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzFreeResourceManager",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzGetInformationFromContext",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeContextFromAuthzContext",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeContextFromSid",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeContextFromToken",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeObjectAccessAuditEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeObjectAccessAuditEvent2",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInitializeResourceManager",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzInstallSecurityEventSource",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzOpenObjectAudit",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzRegisterSecurityEventSource",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzReportSecurityEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzReportSecurityEventFromParams",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzUninstallSecurityEventSource",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzUnregisterSecurityEventSource",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziAllocateAuditParams",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziFreeAuditEventType",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziFreeAuditParams",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziFreeAuditQueue",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditEventType",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditParams",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditParamsFromArray",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditParamsWithRM",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeAuditQueue",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziInitializeContextFromSid",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziLogAuditEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziModifyAuditEvent",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziModifyAuditEvent2",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziModifyAuditEventType",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziModifyAuditQueue",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziQueryAuditPolicy",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziSetAuditPolicy",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthziSourceAudit",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "\f?;\r",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Stck",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Heap",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Heap",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\f$B;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "WWWWS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ":f\t9",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "D0\fP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SSSS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "tN9]4u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "#9]0t)",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "tN9]4u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "#9]0t)",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "H \u000bH",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Heap",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ">Heapu",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9u\fW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9u(u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VQQVVVVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\ftxj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VVVVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\ftR",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";A,t",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@,9E",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Vj j@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\f^_[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t\njW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\rjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VjHj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F4t<Sj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F8t-Sj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ")SSVh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F$SS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F0uAW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "v4!FD",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\f9]",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\f^_[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "v!]\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\fu ",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F,;F",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "\fSVW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "}\fC;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "tm9u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "jWX;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "!jWX",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\t9E\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "x,Wj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SSSh8",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "\tjW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "C,Vf",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "jWXP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "A\f9}",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "x,Wj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t\nWSW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\u000bjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "vt\"P",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SSSh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "]\fv3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u6Pj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVVh|",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVVhP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVVh4",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "_[9u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PWVVh|",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PWVVhP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PWVVh4",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9u\fu",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j h(",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SWVVVVVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VVVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ",Pj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "C(PVjdh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "C PVVVj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "C$Pj\fh6",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "v9u\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t\t9]\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t\t9]",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SSSSSSSSS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "vt)Sj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t/Pj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u h4",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QPVVf",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t.9U",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t\n9U",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "A \u000bA",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";u\fs f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F;u\fr",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ">VWS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";E r",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";E r",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Xt$It",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u49E",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": ";A\ft\fjW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "91v:",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "T$\fS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F;1r",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "EpVW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\fPj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "u\u000b9u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "M\fv*",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9]\fr",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "s\fjz",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[]",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F\ft-",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "M(SV3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "9r\fW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "uS9^DUWu89^Hu3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "_]^[YY",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "nXUj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "WSSS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "n\\Uj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "WSSS",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j2X;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\fPjL",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "vPj@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "E\fPj8",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VVPj",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VQj\fP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VPVV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "VQj\fP",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "90t7",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "A\fVSV",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t$\fW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F,h(",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "v9^,u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t$\fW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F,h(",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "v9^,u",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F,;F",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "N,h,",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "F,;F",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "_][3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "}\f+x\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "M\f_^",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "t>W3",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j h(",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "tJ9~",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "f!<C",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "}\f\ru\n",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "}\f\f|",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "}\f\fu",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "91u\t;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "vM9Y",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j<hh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "^}\rPh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "^}\rPh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QRPh ",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QRPh@",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QRPh`",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "QRPh",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "j\\_f;",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "NNuF",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "tlh<",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Authz   ",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Kerberos",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "AuthzApi",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI ",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "\\[0A",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "666[",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "6666666",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "%\\0A",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "\\[+\r",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\\f",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "NeutralizeNt4Emulator",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SYSTEM\\CurrentControlSet\\Services\\Netlogon\\Parameters",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SYSTEM\\CurrentControlSet\\Services\\Netlogon\\Parameters\\GpParameters",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PAUDIT_AUTHZ_AUDIT_EVENT_OLD_bind: failed 0x%lx\n",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "PSECURITY_SOURCE_NAME_bind: failed 0x%lx\n",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SAMLIB.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "WLDAP32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "NETAPI32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "Secur32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamOpenUser",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamOpenDomain",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamGetGroupsForUser",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamGetAliasMembership",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamQueryInformationUser",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamCloseHandle",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamRidToSid",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamFreeMemory",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "SamConnect",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "DsRoleFreeMemory",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "DsGetDcNameW",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "NetApiBufferFree",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "DsRoleGetPrimaryDomainInformation",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "LsaConnectUntrusted",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "LsaFreeReturnBuffer",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "LsaLogonUser",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "LsaLookupAuthenticationPackage",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "LsaDeregisterLogonProcess",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "ntdll.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x76c40001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x76c40001"
+    }
+]

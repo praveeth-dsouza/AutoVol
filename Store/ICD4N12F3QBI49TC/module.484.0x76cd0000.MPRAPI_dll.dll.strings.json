@@ -1,0 +1,662 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "ACTIVEDS.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "NETAPI32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "ole32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "OLEAUT32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "rtutils.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "SAMLIB.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "SETUPAPI.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "kZvM?Zv",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "fZvTUZv",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "LZvC",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": " SWh",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "t]UV",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "tWHu3",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "vh @",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "vt\u000bh@@",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MPRAPI.dll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "CompressPhoneNumber",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminBufferFree",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminConnectionClearStats",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminConnectionEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminConnectionGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminConnectionRemoveQuarantine",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminDeregisterConnectionNotification",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminDeviceEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminEstablishDomainRasServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminGetErrorString",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminGetPDCServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceDelete",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceDeviceGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceDeviceSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceGetCredentials",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceGetCredentialsEx",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceGetHandle",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceQueryUpdateResult",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceSetCredentials",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceSetCredentialsEx",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceTransportAdd",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceTransportGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceTransportRemove",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceTransportSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceUpdatePhonebookInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminInterfaceUpdateRoutes",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminIsDomainRasServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminIsServiceRunning",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBBufferFree",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntryCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntryDelete",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntryGet",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntryGetFirst",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntryGetNext",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBEntrySet",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBServerConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminMIBServerDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminPortClearStats",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminPortDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminPortEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminPortGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminPortReset",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminRegisterConnectionNotification",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminSendUserMessage",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminServerConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminServerDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminServerGetCredentials",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminServerGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminServerSetCredentials",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminTransportCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminTransportGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminTransportSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUpgradeUsers",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserClose",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserOpen",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserRead",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserReadProfFlags",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserServerConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserServerDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserWrite",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprAdminUserWriteProfFlags",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigBufferFree",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigGetFriendlyName",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigGetGuidName",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceDelete",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceGetHandle",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportAdd",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportGetHandle",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportRemove",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigInterfaceTransportSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerBackup",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerInstall",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerRefresh",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigServerRestore",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportDelete",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportGetHandle",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprConfigTransportSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprDomainQueryAccess",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprDomainQueryRasServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprDomainRegisterRasServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprDomainSetAccess",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprGetUsrParams",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoBlockAdd",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoBlockFind",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoBlockQuerySize",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoBlockRemove",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoBlockSet",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoCreate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoDelete",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoDuplicate",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprInfoRemoveAll",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "MprPortSetUsage",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminBufferFree",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminConnectionClearStats",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminConnectionEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminConnectionGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminGetErrorString",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminGetPDCServer",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminIsServiceRunning",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminPortClearStats",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminPortDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminPortEnum",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminPortGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminPortReset",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminServerConnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminServerDisconnect",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminUserGetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasAdminUserSetInfo",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "RasPrivilegeAndCallBackNumber",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "Wh\n'",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "tASh\n'",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "u\"9u",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "u\"9u",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "j(hp",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "u\t9U",
+        "offset": "0x76cd0001"
+    },
+    {
+        "string": "9M\ft",
+        "offset": "0x76cd0001"
+    }
+]

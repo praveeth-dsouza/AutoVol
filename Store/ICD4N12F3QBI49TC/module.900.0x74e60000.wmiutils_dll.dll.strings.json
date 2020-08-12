@@ -1,0 +1,1998 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Rich0",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "OLEAUT32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ole32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t%I64u",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t  ---\n\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_SORT_DESC",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_SORT_ASC",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_LOWER",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_UPPER",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_ARRAY_REF",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_COMPLEX_NAME ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_FUNCTIONIZED ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_NULL ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_ASTERISK ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_COLUMN ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_TABLE ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  Flags       = 0x%X ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  Array Index = %d\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  Table       = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  Col Name    = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  ---SWQLColRef---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---End SWQLNode_ColumnList---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---SWQLNode_ColumnList---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** END SWQLNode_TableRefs *************\n\n\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_DISTINCT ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_ALL ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_COUNT ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Select type = ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** BEGIN SWQLNode_TableRefs *************\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---End SWQLNode_FromClause---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---SWQLNode_FromClause---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** END SWQLNode_Select *************\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** BEGIN SWQLNode_Select *************\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** END SWQLNode_WmiScopedSelect *************\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Selected table = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Scope = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "********** BEGIN SWQLNode_WmiScopedSelect *************\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  ---End TableRef---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  Alias     = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  TableName = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  ---TableRef---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---End SWQLNode_Join---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " (FIRSTROW)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_INNER_JOIN ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_LEFT_OUTER_JOIN ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_RIGHT_OUTER_JOIN ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WQL_FLAG_FULL_OUTER_JOIN ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<error> ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Join type = ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---SWQLNode_Join---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\n========== END SQL 89 JOIN =============================\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\n========== SQL 89 JOIN =================================\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "============= END WHERE CLAUSE ============================\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " <no where clause> \n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\n========== WHERE CLAUSE ================================\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- End Where Options ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- Where Options ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- End Having ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- Having ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- End Group By ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- Group By ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WHERE:",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "FROM:",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Delete Node\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " NULL",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "%d (0x%X)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "(bool) %d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " unknown",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "   Typed Const <",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---End SWQLNode_JoinPair---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---SWQLNode_JoinPair---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---END SWQLNode_OnClause---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---SWQLNode_OnClause---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---- End 'ORDER BY' Clause ----\n\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\n\n---- 'ORDER BY' Clause ----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        ----End SWQLNode_Datepart----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_DAY",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_MONTH",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_YEAR",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_HOUR",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_MINUTE",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "       WQL_TOK_SECOND",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "      WQL_TOK_MILLISECOND",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        -> No datepart specified\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        ----Begin SWQLNode_Datepart----\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "---end---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszRequiredAssocQualifier = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszRequiredQualifier      = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszResultRole             = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszRole                   = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszAssocClass             = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszResultClass            = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pszQueryText              = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<%S>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Path object has ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "IWbemPath pointer = 0x%I64X\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_CLASSREFSONLY\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_SCHEMAONLY\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_KEYSONLY\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_CLASSDEFSONLY\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_REQUIREDASSOCQUALIFIER\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_REQUIREDQUALIFIER\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_RESULTROLE\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_ROLE\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_ASSOCCLASS\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_RESULTCLASS\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_REFERENCES\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    WMIQ_ASSOCQ_ASSOCIATORS\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Feature Mask    = 0x%X\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Analysis Type   = %u\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Version         = %u\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Association query info\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        === END SWQLTypedExpr ===\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    ------- End   Subselect ------\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    ------- Begin Subselect ------\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "   ---End Const List---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "   ---Const List---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pRightFunction: \n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "m_pLeftFunction: \n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_CONST_RANGE",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "(On const: Function=%S)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "(On join col: Function=%S)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_FUNCTIONIZED",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_dwRightFlags = (0x%X)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_FUNCTIONIZED (Function=%S)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_COMPLEX_NAME",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_CONST",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_TABLE",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " WQL_FLAG_COLUMN",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_dwLeftFlags = (0x%X)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pConstValue2   = ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "  NULL ptr \n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pConstValue   = ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_dwRightArrayIndex = %d\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_dwLeftArrayIndex = %d\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_dwRelOperator = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pJoinColRef   = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pJoinTableRef = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pColRef       = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        m_pTableRef     = %S\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "        === BEGIN SWQLTypedExpr ===\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "   --- END SWQLNode_RelExpr ---\n\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    <WQL_TOK_OR>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    <WQL_TOK_AND>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    <WQL_TOK_NOT>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    <WQL_TOK_TYPED_EXPR>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "    <invalid>\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "   --- SWQLNode_RelExpr ---\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "EMIT: QUALIFIER\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "EMIT: ISNULL\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "UnhandledExceptionFilter",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "kernel32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QZw(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ";ls~G",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<5IkQ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "s1q4",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<5IkQ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<5IkQ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ">B5.",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "e\tSC",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "VX^QP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "n+s;",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\\@ZJ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "40eg m",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "i(ckC",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "A$|KL",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\r:'l",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "^JHH",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "jZQ=",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "[-Sn+2+",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "K.$<",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ZNQ{\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "#1qG\u000b",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Nl\"c",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "XT[i",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9XMw",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "P^`B",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ":\"R@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "qqQn",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "NB10",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wmiutils.pdb",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9E\fu",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\nBBFF",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t$\f3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "BBNu",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^t\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CVjD",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\fPVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^t\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t$\fW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\\hp",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SVWj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "j\fhP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\tf9",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "r2f=Z",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "L$,Qh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "D$ t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "r2f=Z",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "D$(Ph",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "j\fh`",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "w#t<",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t/v0",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tI9]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u1j2",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9E\fuz",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "M\fv\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@;E\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSUV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\r9A",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9A,u",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\"ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CG;~",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F$PV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9X$t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "C VW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wHt8",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "PRQu",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "St[f9",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "8E\ft\r",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQS3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\ft#",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F<PV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y9H$u",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_SVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9X<t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<SVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\fSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "8_(t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9_,t\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\ft\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\t9]\fu\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\fSV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\nSWP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HHtiHtW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "G@@;V",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9U t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "}\ft=",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVWj(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t{9E\fwvj(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "}\f;}",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "v/SW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tj9]\fwej(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "taj(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\nPS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "C VW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t@9]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\fVP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YYwf",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uS9M",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "<x\\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9-u6Q",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wOr\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u!!E",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "&j\\W",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Qh0 ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "N\f9y",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "3hP\"",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E 90",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uJ93",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wUSWP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\fVhT-",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\fS3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "A`9X",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVWh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "$SVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@`9E\ftySW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "M\f9N",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Qjdj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tWh\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\u000b9D$",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\\US3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "D$\f'",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_[]3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVWj$",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tPJJtDJt9Jt.",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tVWh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HYt%Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tVWh4",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "th$ ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "thX ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\n\u000b\f\r",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "th`#",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_t\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HYtPHHt@HHt(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "WWh|#",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Yhp#",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "thX$",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tWhd%",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YtCHt9Ht/Ht%Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "/h$%",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "(h\f%",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9t$\fv",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F;t$",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@\tF j",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F$u_",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F,t6",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "w-t'",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "It\rIt",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Iu=@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t>HHt*",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t0Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "0ht(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_\fShT-",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "|$\f;",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QQSVWjd_",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tZ9]\ftUj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\fhx%",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSWj ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "MtG-",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HHt\u000bHu#",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YG;>|",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SUVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "v@hl*",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F@@t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "FD@t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Yt\nPh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\nPh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "FE@t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^(Yt",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^,t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^Lt6h4)",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "FLC;",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_^][",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YY_^",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\ftb",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "G\fu\r",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\f9X",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\ftJ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^(u\u000b",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9V<t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@9V\ft",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "G;>|",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\f\f\t\f\f\f\f\f\f\f\n\f\f\f\f\f\f\f\f\f\f\f\f\f\u000b",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SVWj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9>~Lj\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "G;>|",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "thp,",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Yt2Ht(Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "%hD,",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_t\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t4j0",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QVjd",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QVWj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t*=(",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t#=Y",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t_j\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YG;~",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9~0v",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "YG;~0r",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\fSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u/j ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "\tH\f;",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u\r9N\ft",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\f9^",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\f9]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " \t_\f9]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t9Ht",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uV\t~@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uB\t~@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F@tP\r",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uT\t~D",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "uT\t~D",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^Lt ",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9^\ft[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "QSVWj",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "A\f9_",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": " SVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tO~F",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t>W3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\tWVS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\fWVS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "NWVS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\fu\f",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u7WPS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u&WVS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\f_^[]",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "D$\fd",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "l$\fP",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "th\fH",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t$Wh",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "7j\fV",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "tSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "8csm",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "j\fh(-",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "x\u000b)u",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "t\ff9M",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "w\ff9M",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "j\fhh6",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "9>u:",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Pt$Q",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "G;>Y|",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "r6f=9",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "rUWf",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "rOf=9",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "@_]^[YY",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SVWh?",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "|C\n\\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\fu0",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "u*j\n",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\fS3",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "F\fu*",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "E\nPS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "FVPS",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Yt@V",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SWtA",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DSVW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ":tuf",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ";\\to",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "L$\fu\t",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "VAPI32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "LoadStringW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "OLEAUT32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "StringFromGUID2",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CoCreateFreeThreadedMarshaler",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CoCreateInstance",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ole32.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "Sleep",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "SetLastError",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HeapAlloc",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "GetProcessHeap",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HeapFree",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "HeapReAlloc",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DebugBreak",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CloseHandle",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "GetSystemDirectoryW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CreateMutexA",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ExpandEnvironmentStringsW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "CreateDirectoryW",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "memmove",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wcstoul",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "_wstat",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wcstok",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "ntdll.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "wmiutils.dll",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DllCanUnloadNow",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DllGetClassObject",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DllRegisterServer",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": "DllUnregisterServer",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ".?AVCX_Exception@@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ".?AVCX_MemoryException@@",
+        "offset": "0x74e60001"
+    },
+    {
+        "string": ".?AVCTmpStrException@@",
+        "offset": "0x74e60001"
+    }
+]

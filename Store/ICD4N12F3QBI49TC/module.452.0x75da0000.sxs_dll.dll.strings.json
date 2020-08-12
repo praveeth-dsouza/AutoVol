@@ -1,0 +1,6250 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f_[^]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u9E\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SUVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t$\fW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@Tx@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FT=x@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "D$\fd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "l$\fP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@\fSxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u99u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^VQh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "}\fG;~\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9>t!",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9A\fv",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QPh|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ph|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VjSh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "WhSX",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fhlk",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "<x:t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t&8^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "NRf;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FHu\tQ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "l$\f9k",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "sbUj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "BBAA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "H_^[]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9u\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9u\fj,Xt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "D\t.9u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fF;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9~\ftA9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t<9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u7Sd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9~\ft>9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t99~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "`SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "`SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\\SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "JJu`",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9AHWt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9v{f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".tuf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "-tof",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\"Nt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t,VW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@@Ou",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\f9u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "X_^]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8^Pt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9^Dt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u(9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^\\9^Du",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^`^3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0r\nf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QQVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\nt\rf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Af9^d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "vpVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FtSV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Q\f8^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F$9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Fdf;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "vpVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "?u59^P",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "WSVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HHt8",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FD8X\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "+8^*",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Fdf;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "vpVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4WU",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "?<tF",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FTPW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FZPW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Wh\t0",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x\u000b)u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f;E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\tf9",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sj|h@1",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sj|h@1",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SjOh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t59~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "T$\fV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_t~H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Hj>_",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FRf98",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "|DWhy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FRf=/",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8]\u000bu\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\u000bPVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\u000bPVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8]\u000bt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\u000bPVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8]\u000bt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\u000bPV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "v4WV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uPVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "{@uE",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VjyhH`",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VjOh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PWhP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]\fvG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VWtI",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "sPN;s\\",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Clf;Cnt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "tW8^ZuRf=&",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FTPW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "f;FVu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "f;VVudPQ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N{QP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ht[H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FZPQ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AH;A",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AH;A",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8^zuKj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t;P",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";E\fr",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FRf;FX",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FRf;FX",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AH;A",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FZPR",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "NHhC",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "`SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]\fVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j.^f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fGGf;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0rpf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9wj9]\fu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@@f;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "IJJ;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@@f;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";E\frL",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Qh|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uh|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fPWVj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";~\fw",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9Q\ft\r",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "l$\fVWj\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Clf;Cnt_",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9Q(r",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^PKx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "[_^]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@;E\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";E\fr",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "+~ xE;~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4WU",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4WU",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^<u8WS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F\ft;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AH;A",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8^{u-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\fWw^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "~R?t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HH;H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "??u0",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FZPW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "?>u\u000bf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4WS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9>uBPQ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4WS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "?:t\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "nZ8]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "N4UW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Cpup",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t%9P",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Fpu'",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "p SSj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F0h|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uZ9X",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVWd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVWd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8^4uY8^5u@;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "~<8^6",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8^4t\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9E\ft",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\th ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sj\\Zj/[j?_t.f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "xSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9}$t\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uhT<",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "W 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u<9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "U(RP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9}4w",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]$YP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PWS3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Y9} ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "jCj5j",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "C []",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GGf=",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "s%f=a",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "r\u000bf=z",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t5SSSSSSSSSSSSSSSSSSSSh4",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\u000bt\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9]|V",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uj.Z",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "RWQP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u|hH5",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]t9]x",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\f1QPh05",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "EDWP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j.XPh(5",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "EDWP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Et9}t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Md_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVWd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "95HD",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fWj4",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uj\fSf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fj\n3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\ft5",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QQSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VVWj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9w t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9~ t ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9u\fW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9u\fv",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "K$@;E\fr",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Pj h Q",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uFVV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^<u\\",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\tf9",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9]\ft\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\ft\t9^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fPW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f;E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]\fv$",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\\SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uhpV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSSh@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9>t\n9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\tVP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fQh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n9^4u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F08^P",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QVj<j",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t$\fW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "{`j\tY",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Clf;Cn_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "L$\ff",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uj\fj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "^_[]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u_^d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VWuc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "~X)u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\fpQP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E$)u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ")u\f)uH",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^][Y",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@9E\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Arnf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "arbf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";E\fr",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f9E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9}\ft\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Huw9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fPj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uWWVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0Vh6",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Qj|j",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\nj,",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "tF9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9]\ft\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "(SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fIS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\tY9M\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ph|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f@;E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fsG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fIS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9>t\n9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uWPj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fWj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t4Wd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9}",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "XSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "P 9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\fPBF;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j@X;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Zv\ff",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ar\nf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F\fPV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fHtFH",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j,X9E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SsHd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "#GGf=$",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t9] ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]4t;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ph|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\f^j",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9}\ft\t9]\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";^\fw2d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ph|W",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u RP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\tPhh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "tU8]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\thT",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j4Y;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "s\fjdX;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9G u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\f)E",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "09u\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fHWtPH",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\fS3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "4SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\fAf;L$\ft\t@;D$",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "~49]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "@VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t9N",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j Xt",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VVVj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Actx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ht5H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9]$v",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "A;M$r",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8;M$",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fhD",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "tS8]\u000b",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\\VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j(X;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GsHd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9>t\n9~",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "<SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0Vh6",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fPV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fhp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\t;u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ht&H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "G\f;F\fut",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";E\fr",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t$9H",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "O ;H ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uf;M",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "r\ff=9",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FFf=-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FFf=-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FFf=-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GFFS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FFf=-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Wh`&",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Ph,'",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t AAf=-",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "thHu8h A",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9t$\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9t$\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Wtn3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "95pG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VWh ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "utA3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FTx@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "jTh0",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uWWVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VhJu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Vhgs",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "j\tVh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9u\fS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9=tG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uu%WW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t!SS9]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t.Hu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\\SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\\SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Y\fjDY;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "C@PS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "s\fj X;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "A\fj\fZ9Q",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "jd^;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CXPS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VWj43",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t.;F",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t);F",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PShh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSh<",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PShh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSh<",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "th8_",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "_^[d",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "OFFf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".tZf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0rsf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9wm;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "IJJ;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0Vh6",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";L$\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSh ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSh0",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PSh@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PShP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9u\ft'3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\nBBf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PWh,",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PWh<",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QVhd",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9X u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Vj$3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]\f;]",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ";]\fV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t\u000b;u\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " VW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uFSFV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "F\f9E\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "sB9u",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "A9M\fv\\",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VVSV",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSS3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QRPh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "}\f+x\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\f_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "sxs.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateAssemblyCache",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateAssemblyNameObject",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "DllInstall",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsBeginAssemblyInstall",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsEndAssemblyInstall",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsFindClrClassInformation",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsFindClrSurrogateInformation",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsGenerateActivationContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsInstallW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsLookupClrGuid",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapIIDToProxyStubCLSID",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapIIDToTLBPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapReferenceClsidToConfiguredClsid",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32RedirectTypeLibrary",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProbeAssemblyInstallation",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionGatherEntriesW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionNotifyW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionPerformScanNow",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionUserLogoffEvent",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionUserLogonEvent",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsQueryManifestInformation",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsRunDllInstallAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsRunDllInstallAssemblyW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsUninstallW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateManifestPathOnAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGeneratePolicyPathOnAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspRunDllDeleteDirectory",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspRunDllDeleteDirectoryW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s - insufficient buffer passed in.  cchBuf passed in: %u; cchPath computed: %u\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\util.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsQueryAssemblyInfo",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: SxspParseGUID() passed in GUID where character %d is not a dash.\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: SxspParseGUID() passed in GUID where character %d is not hexidecimal\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: SxspParseGUID() given GUID where character %d is not hexidecimal\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseGUID",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsoleaut.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspOleAut32RedirectTypeLibrary",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32RedirectTypeLibrary",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uD:\\srv03rtm\\base\\win32\\fusion\\inc\\fusionbuffer.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\inc\\SxsExceptionHandling.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ud:\\srv03rtm\\base\\win32\\fusion\\utils\\checksetupmode.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32Assign",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSxsLockCriticalSection::Lock",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "D:\\srv03rtm\\base\\win32\\fusion\\inc\\fusionhash.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericStringBufferAccessor<class CUnicodeCharTraits>::Attach",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericStringBufferAccessor<class CUnicodeCharTraits>::Detach",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGetAssemblyRootDirectory",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\inc\\fusionchartraits.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Fd:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsp.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "D:\\srv03rtm\\base\\win32\\fusion\\inc\\fusiondeque.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "%s(%d): Incremented hash table %p entries to %Id\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\cominterface.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\comtypelib.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\comprogid.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\comclass.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\asmmetadata.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\comclsidmap.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\gsgenctx.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\ndpclassinfo.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\windowclass.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ud:\\srv03rtm\\base\\win32\\fusion\\sxs\\ssgenctx.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_dependency",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "%S   %08lx:%ls%ls\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "%S%08lx: %02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x-%02x (%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c)\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\utils\\culture.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\utils\\parser.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\inc\\fusiondeque.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\utils\\xmlns.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\inc\\fusionhash.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uXMLStream(this)",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\xmlparser\\xmlparser.cxx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ud:\\srv03rtm\\base\\win32\\fusion\\id\\id.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\id\\encdec.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\id\\policy.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ud:\\srv03rtm\\base\\win32\\fusion\\sxs\\filestream.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\actctxgenctxctb.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: %s: ExpandEnvironmentStringsW() for %windir%\\system32 failed with lastError=%d\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDllRedir::ContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\dllredir.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: %s() called when we were not expecting it.  m_xpsParseState = %d\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::EndChildren",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\nodefactory.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32EnsureTrailingPathSeparator",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDllRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\assemblyreference.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::GetAssemblyName",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::TakeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::GetLanguage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::SetLanguage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::IsLanguageWildcarded",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::IsProcessorArchitectureWildcarded",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::GetProcessorArchitecture",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::SetAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CImpersonate::Impersonate",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CImpersonate::Unimpersonate",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CCharTraitsBase<unsigned short,char>::Win32HashString",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32Equals",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComInterfaceRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComTypeLibRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComProgIdRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComClassRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAssemblyMetadataContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CClsidMap::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGSGenCtx::Create",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsGenerateActivationContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsactctx.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspProcessElementPathMap",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateProcessorArchitectureAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGetAttributeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspClrInteropContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspWindowClassRedirectionContributorCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::SetProbedIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\probedassemblyinformation.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringTableHelper<class CPolicyStatement *,class CPolicyStatement *,class CUnicodeCharTraits,1>::HashKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::TakeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::SetPolicyPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::SetManifestPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::InitializeTakeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucketChain::Find",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringPtrTable<class CPolicyStatement,class CUnicodeCharTraits,1,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement> >::Find",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::LookForAppPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::LookForSxsWin32Policy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::ProbeAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::Create",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::Find",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::Entry::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::Add",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_dependency_dependentAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::ValidateIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::FirstCreateNodeCall",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::ConvertXMLNodeInfoToSXSNodeInfo",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::SetParseType",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::ValidateElementAttributes",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCreateAssemblyIdentityFromIdentityElement",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::BeginChildren",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::CreateNode",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_assemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_dependency_dependentAssembly_assemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FusionpAreWeInSpecifiedSetupMode",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t\f\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n\f\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\f\f\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t \t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n \n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t$\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n$\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t(\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n(\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t,\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n,\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t0\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n0\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\t4\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n4\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n8\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n<\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\n@\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\nD\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\nH\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\nL\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\nP\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspMapLANGIDToCultures",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFusionParser::ParseVersion",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CConstDequeIterator<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::CBucket,548>::Unbind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDequeIterator<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::CBucket,548>::Rebind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTableIter<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::Reset",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CXMLNamespaceManager::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CXMLNamespaceManager::Map",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CXMLNamespaceManager::OnEndChildren",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CXMLNamespaceManager::OnCreateNode",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "XMLParser::Run",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspSetAssemblyIdentityAttributeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspRemoveAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGetAssemblyIdentityAttributeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspUpdateAssemblyIdentityHash",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspEnsureAssemblyIdentityHashIsUpToDate",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\id\\sxsid.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsDestroyAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateAssemblyIdentityAttributeNamespace",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateAssemblyIdentityAttributeName",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateAssemblyIdentityAttributeValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsValidateAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComputeInternalAssemblyIdentityAttributeBytesRequired",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAllocateInternalAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDuplicateInternalAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspHashInternalAssemblyIdentityAttributes",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsRemoveAssemblyIdentityAttributesByOrdinal",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsFindAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspIsInternalAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDoesStringIndicatePolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDetermineAssemblyType",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFindAssemblyIdentityNamespaceInArray",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFindAssemblyIdentityNamespace",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsCreateAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCreateAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsInsertAssemblyIdentityAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsDuplicateAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateTextualIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\t9\t=\t=\tX\ta\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\n(\n*\n0\n2\n3\n5\n6\n8\n9\nY\n\\\n^\n^\nr\nt\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\u000b(\u000b*\u000b0\u000b2\u000b3\u000b6\u000b9\u000b=\u000b=\u000b\\\u000b]\u000b_\u000ba\u000b",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\f(\f*\f3\f5\f9\f`\fa\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\r(\r*\r9\r`\ra\r",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "&!&!*!+!.!.!",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateXMLName",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComputeInternalAssemblyIdentityAttributeEncodedTextualSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspEncodeInternalAssemblyIdentityAttributeAsText",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspEncodeAssemblyIdentityTextually",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsComputeAssemblyIdentityEncodedSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsEncodeAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspMapAssemblyIdentityToPolicyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateTextuallyEncodedPolicyIdentityFromAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFileStreamBase::Close",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspInitAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPendingAssembly::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _ASSEMBLY,0>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CPendingAssembly,0>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucket,548>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringTableHelper<struct _ASSEMBLY *,struct _ASSEMBLY *,class CUnicodeCharTraits,1>::HashKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringTableHelper<struct _ASSEMBLY *,struct _ASSEMBLY *,class CUnicodeCharTraits,1>::InitializeKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspInitActCtxGenCtx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspResolvePartialReference",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspEnqueueAssemblyReference",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucketChain::Find",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucket::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringPtrTable<struct _ASSEMBLY,class CUnicodeCharTraits,1,class CAssemblyTableHelper>::Find",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFindAssemblyByName",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::AllocateAndInitializeBucket",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucketChain::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\actctxgen.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspIncorporateAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAddAssemblyToActivationContextGenerationContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAddManifestToActCtxGenCtx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAddRootManifestToActCtxGenCtx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspProcessPendingAssemblies",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCloseManifestGraph",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_ParseEnded",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_ParseEnding",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_BeginChildren",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_EndChildren",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_ElementParsed",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_PCDATAParsed",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_IdentityDetermined",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_ParseBeginning",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\comgoop.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGetXMLParser",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateLanguageAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::ClearLanguage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\hashfile.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0:s\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Dw=After loop, destroying hash table %p; found total of %Id buckets; m_cEntries == %Id\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Destroying hash table %p; found %Id buckets at index %d\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "%s(%d): Cleared hash table %p entries to 0\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: Probed manifest: %S is FOUND !!!\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: Probing for manifest: %S\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\parsepolicy.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\utils\\io.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32CopyIntoBuffer",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::HasTrailingPathSeparator",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32AppendPathElement",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspHashAlgFromString",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::Assign",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDequeBase::ResetHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32ResizeBuffer",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComInterfaceRedirectionGuidSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_FILE_CONTEXT,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComTypeLibRedirectionGuidSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComProgIdRedirectionStringSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_PROGID_SERVER_CONTEXT,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_FILE_CONTEXT,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComClassRedirectionGuidSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAssemblyMetadataStringSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CClsidMap::Uninitialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CConstDequeIterator<class CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucket,24>::Unbind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucket,24>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDequeIterator<class CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucket,24>::Rebind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTableIter<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::Reset",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGSGenCtx::GetSectionSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGSGenCtx::GetSectionData",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucketChain::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32AssignWVa",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32AssignW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspIsFileNameValidForManifest",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "0123456789ABCDEF",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFormatULONG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateAssemblyNamePrimeFromName",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateSxsPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGetNDPGacRootDirectory",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateNdpGACPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateManifestPathForProbing",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _CLR_SURROGATE_ENTRY,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspClrInteropGuidSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspWindowClassRedirectionStringSectionGenerationCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CPolicyStatementRedirect,0>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucket,548>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::SetManifestLastWriteTime",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::Assign",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::ProbeLanguageDir",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringTableHelper<class CPolicyStatement *,class CPolicyStatement *,class CUnicodeCharTraits,1>::InitializeKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspGenerateNDPGacPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucket::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::ProbeManifestExistence",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::AllocateAndInitializeBucket",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucketChain::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProbedAssemblyInformation::LookForNDPWin32Policy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspComponentParsePolicyCore",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseComponentPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::GetSectionSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSSGenCtx::GetSectionData",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CPolicyStatementRedirect,0>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CConstDequeIterator<class CPolicyStatementRedirect,0>::Unbind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDequeIterator<class CPolicyStatementRedirect,0>::Rebind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPolicyStatementRedirect::TryMap",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s Intermediate redirection : %d.%d.%d.%d to %ls\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPolicyStatement::ApplyPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\policystatement.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPolicyStatementRedirect::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPolicyStatement::AddRedirect",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_noInheritable",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_dependency_dependentAssembly_bindingRedirect",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDoesFileOrDirectoryExist",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDoesFileExist",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::CBucket,548>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CXMLNamespaceManager::CNamespacePrefix *,class CXMLNamespaceManager::CNamespacePrefix *,class CStringPtrTableHelper<class CXMLNamespaceManager::CNamespacePrefix,class CUnicodeCharTraits,0>,7,0>::CBucketChain::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsHashAssemblyIdentity",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsAreAssemblyIdentitiesEqual",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsCompareAssemblyIdentityAttributes",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCompareAssemblyIdentityAttributeLists",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspHashAssemblyIdentityForPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFileStreamBase::QueryInterface",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFileStreamBase::Read",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFileStreamBase::Stat",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: %s(%ls) gave error %ld\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CFileStreamBase::OpenForRead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucket,548>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _ASSEMBLY,0>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CPendingAssembly,0>::Remove",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CPendingAssembly,0>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucket,548>::Clear",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: Creating %lu byte file mapping\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspBuildActCtxData",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::CBucketChain::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,struct _ASSEMBLY *,struct _ASSEMBLY *,class CAssemblyTableHelper,7,0>::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::CBucketChain::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CPolicyStatement *,class CPolicyStatement *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CPolicyStatement>,7,0>::ClearNoCallback",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_ActCtxGenEnded",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_AllParsingDone",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_GetSectionSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CActivationContextGenerationContextContributor::Fire_GetSectionData",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\utils\\helpers.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyReference::SetProcessorArchitecture",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FusionpFormatProcessorArchitecture",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateBoolAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGenericBaseStringBuffer<class CUnicodeCharTraits>::Win32Compare",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uFlsFree",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FlsSetValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FlsGetValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FlsAlloc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "kernel32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uInitializeCriticalSectionAndSpinCount",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uUnhandledExceptionFilter",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\actctxctb.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspAddBuiltinActCtxContributor",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspInitActCtxContributors",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FusionpAreWeInOSSetupModeMain",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HrFusionpOleaut_MapIIDToTLBID",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapIIDToProxyStubCLSID",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapIIDToTLBPath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsOleAut32MapReferenceClsidToConfiguredClsid",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: Found characters other than . and 0-9 in a TLB version number.\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CClsidMap::MapReferenceClsidToConfiguredClsid",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CGSGenCtx::Add",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_ENTRY,0>::AddToHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_ENTRY,0>::Remove",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_FILE_CONTEXT,0>::AddToHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_FILE_CONTEXT,0>::Remove",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _TLB_ENTRY,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_PROGID_SERVER_CONTEXT,0>::AddToHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDequeIterator<struct _COM_PROGID_SERVER_CONTEXT,0>::Rebind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_SERVER_ENTRY,0>::AddToHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_SERVER_ENTRY,0>::Remove",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_FILE_CONTEXT,0>::AddToHead",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_FILE_CONTEXT,0>::Remove",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<struct _COM_SERVER_ENTRY,0>::ClearAndDeleteAll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CDeque<class CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucket,24>::AddToTail",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucket::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTableIter<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::Next",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTableIter<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::GetKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTableIter<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::operator`->'",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::AllocateAndInitializeBucket",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::CBucketChain::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<struct _GUID const &,struct _GUID,class CGSGenCtx::Entry *,class CGSGenCtx::Entry *,class CGSGenCtx::EntryGuidTableHelper,7,0>::Insert",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseUSHORT",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseThreadingModel",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspValidateGuidAttribute",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspDequoteString",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCreateAssemblyIdentityFromTextualString",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCreateManifestFileNameFromTextualString",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s() - Failed placement new of CProtectionRequestList????\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspConstructProtectionList",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsprotect.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CProtectionRequestRecord *,class CProtectionRequestRecord *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CProtectionRequestRecord>,7,0>::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CHashTable<class CCountedStringHolder<class CUnicodeCharTraits> const &,class CGenericStringBuffer<260,class CUnicodeCharTraits>,class CRecoveryJobTableEntry *,class CRecoveryJobTableEntry *,class CCaseInsensitiveUnicodeStringPtrTableHelper<class CRecoveryJobTableEntry>,7,0>::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CProtectionRequestList::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxsProtectionGatherEntriesW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "vDbgPrintEx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVWUj",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t.;t$$t(",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "\f_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "R\f9Q",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "k\fY[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "L$\fu\t",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVWU",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "tYVU",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t?xH",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "]_^[",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "L$\fW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "PPh< ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VVh< ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Uu/f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "E\ff;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSSW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSS",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSSW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSSh3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SSSSSSSSSSSSSSSSSSSShE",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "*8]\u000b",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fWj4",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t!Vh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AAJu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "8C t.j",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Qh z",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Qh0z",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QhxI",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "09u\f",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u>\tE",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "<Gt9",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "M\fGG",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "x4_^",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "|$\f;",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t'Wh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": " SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "D$\fP",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9N\fu",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "$9u\ft",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9N\ft",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "9N\ft",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "YYt%",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uSVW3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "u\fSSh!",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ",SV3",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "uu\rh",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sxs ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "t395",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "::GenericInitialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxspath.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSetupCopyQueuePathParameters::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CStringTableHelper<class CPolicyStatement *,class CPolicyStatement *,class CUnicodeCharTraits,1>::CompareKey",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "IsBinaryFileContainManifestInResource",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s called; returning E_NOTIMPL\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyCacheItem::AbortItem",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\cassemblycacheitemstream.h",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyCacheItemStream::Commit",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyCacheItem::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: SxspDeleteDirectory returns FALSE, file a BUG\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: SxspCancelRunOnceDeleteDirectory returns FALSE, file a BUG\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s - setting disposition to IASSEMBLYCACHEITEM_COMMIT_DISPOSITION_INSTALLED\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s - setting disposition to IASSEMBLYCACHEITEM_COMMIT_DISPOSITION_REFRESHED\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s - setting disposition to IASSEMBLYCACHEITEM_COMMIT_DISPOSITION_ALREADY_INSTALLED\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s called:\n   dwFlags = 0x%08lx\n   pulDisposition = %p\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyCacheItem::Commit",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS: %s called with:\n   dwFlags = 0x%08lx\n   pszName = \"%ls\"\n   dwFormat = %lu\n   dwFormatFlags = %lu\n   ppStream = %p\n   puliMaxSize = %p\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsasmitem.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CAssemblyCacheItem::CreateStream",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseNdpGacComponentPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspParseApplicationPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\sxsntrtl.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspCreateLocallyUniqueId",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFormatLocallyUniqueId",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CCodebaseInformation::Win32GetType",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "d:\\srv03rtm\\base\\win32\\fusion\\sxs\\protectionui.cpp",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspSpinUntilValidDesktop",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSXSMediaPromptDialog::Initialize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SxspFindInstallWindowsSourcePath",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSXSMediaPromptDialog::DisplayMessage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSXSMediaPromptDialog::OurDialogProc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CSXSMediaPromptDialog::ShowSelf",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CPolicyStatementRedirect::CheckForOverlap",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::QueryInterface",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_assembly_noInherit",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_configuration_windows",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_configuration_windows_assemblyBinding",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_configuration_windows_assemblyBinding_dependentAssembly",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: %s() app-level PublisherPolicy try to be set but there is no appcompat flags been set.\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CNodeFactory::XMLParser_Element_doc_configuration_windows_assemblyBinding_dependentAssembly_publisherPolicy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SXS.DLL: %s() called but app-level PublisherPolicy has already been set.\n",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CRYPT32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SETUPAPI.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "imagehlp.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertFreeCTLContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertFreeCertificateContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertFindSubjectInCTL",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertCreateCTLContext",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CryptVerifyMessageSignature",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertCloseStore",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertFindCertificateInStore",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertOpenStore",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CryptImportPublicKeyInfoEx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertGetNameStringW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CertGetPublicKeyLength",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CryptMsgGetAndVerifySigner",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "UuidCreate",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupGetFileCompressionInfoW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupQueueCopyW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupCloseInfFile",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupOpenInfFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupGetSourceInfoW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupGetSourceFileLocationW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetupDecompressOrCopyFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ImageGetDigestStream",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ntdll.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FlushFileBuffers",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QueryPerformanceCounter",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetFilePointerEx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileInformationByHandle",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetSystemDefaultUILanguage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetFilePointer",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SizeofResource",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LockResource",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LoadResource",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindResourceExW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetLastError",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HeapAlloc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HeapDestroy",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HeapCreate",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "HeapFree",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "RtlUnwind",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LoadLibraryA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InterlockedCompareExchange",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FreeLibrary",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetSystemTimeAsFileTime",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetProcAddress",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VirtualQuery",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "VirtualAlloc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "DelayLoadFailureHook",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "RaiseException",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetCurrentProcessId",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetCurrentThreadId",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "DeleteCriticalSection",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetModuleHandleW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QueryActCtxW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindActCtxSectionGuid",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetCurrentActCtx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindActCtxSectionStringW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "AddRefActCtx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetFileAttributesW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindClose",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InterlockedIncrement",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InterlockedDecrement",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "MultiByteToWideChar",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindFirstFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetLastError",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FindNextFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateDirectoryW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileAttributesW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "MoveFileExW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ExpandEnvironmentStringsW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileSize",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CloseHandle",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "UnmapViewOfFile",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateFileMappingW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "MapViewOfFile",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "DeleteFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "RemoveDirectoryW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LeaveCriticalSection",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "EnterCriticalSection",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileSizeEx",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ReadFile",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "Sleep",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "WriteFile",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CopyFileW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileAttributesExW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LocalFree",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "lstrlenW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetVolumeInformationW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetDriveTypeW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FormatMessageA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InterlockedExchange",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetUserDefaultUILanguage",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetCurrentProcess",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetTickCount",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetEvent",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ResetEvent",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "CreateEventW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "WaitForSingleObject",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "QueueUserWorkItem",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetShortPathNameW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetSystemInfo",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LoadLibraryExW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFullPathNameW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetVolumePathNameW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetTimeFormatW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetDateFormatW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FileTimeToSystemTime",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetErrorMode",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetLogicalDriveStringsW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SystemTimeToTzSpecificLocalTime",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetSystemTime",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "OutputDebugStringA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "IsDebuggerPresent",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "LoadLibraryW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetProcessHeap",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InitializeCriticalSection",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "InitializeCriticalSectionAndSpinCount",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SearchPathW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetModuleFileNameW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetStringTypeW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "FormatMessageW",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetCommandLineA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetVersionExA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetModuleHandleA",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TlsAlloc",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TlsFree",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TlsSetValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "TlsGetValue",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "SetHandleCount",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetStdHandle",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetFileType",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "GetStartupInfo",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "                          ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "                        ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "        ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "abcdefghijklmnopqrstuvwxyz",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".?AVbad_exception@std@@",
+        "offset": "0x75da0001"
+    },
+    {
+        "string": ".?AVexception@@",
+        "offset": "0x75da0001"
+    }
+]

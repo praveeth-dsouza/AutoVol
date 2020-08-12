@@ -1,0 +1,4218 @@
+[
+    {
+        "string": "!This program cannot be run in DOS mode.\r\r\n$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rich",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ".text",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "`.orpc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "`.data",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ".rsrc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@.reloc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NTDLL.DLL",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ole32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OLEAUT32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VERSION.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "3SB.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "UnhandledExceptionFilter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "kernel32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystem2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSubscription3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventClassParallelFiringTimeout",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventClass3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSubscription2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "/Zc}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "/Zc}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\\^F&{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\\^F&{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\tB\tf\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\n&\nP\nz\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v.\u000bX\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vT\fx\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "2\rV\r",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IMultiInterfaceEventControl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventControl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventProperty",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventObjectChange2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IMultiInterfacePublisherFilter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IPublisherFilter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventClass2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventClass",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystem",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IFiringControl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventObjectCollection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventObjectChange",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventPublisher",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEnumEventObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSubscription",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "%\\/Z",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "%\\/ZK",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "%\\/Z",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F/Z\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F/Z\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\HI",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "K\\F\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\\[/ZK",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F/ZK",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "%\\/ZK",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E/ZK",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventPropertyBag",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ICollectionNotify",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystemInitialize",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystemPersistable",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSubscriptionTier2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventClassTier2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystemTier2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IEventSystemTier2Factory",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "TIMER: exception 0x%08x raised from address 0x%08x\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WORK_QUEUE: weird error 0x%08x...\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "%4x:  %s",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "comsvcs.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "COMRes.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSAPI32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "kJ8.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\\~e",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\\^F&{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\\^F&{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "kJ8.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u~*`=\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0x0, 0",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0x0, 0",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0x0, 0",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NB10",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ES.pdb",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9^0~",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\f;~0|",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~(t\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F\f9x",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "HtA3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tfHHt2Hto",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t;Ht3Ht0Ht(Ht/",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Hu>f;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vHt`Ht",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|#9M",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$\fW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QTYY",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "bVWS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh0",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh`",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v1+u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\u000bPPP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9D$\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0H<3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0H<3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "A(_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4he",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4hr",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "U\fRP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4hx",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4hy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Sj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Sj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9t$\f~",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F;t$\f|",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t*S3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v9~\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~du",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F4PS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~4u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F8PS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NlQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rt9~lu$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FpPQ",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "R|9~pu$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j4h-\r",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h4\r",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u'9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4hg\r",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tGf9~",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}\fv>",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\ff;F",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\ff;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\ff;F",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FDPh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vGf;{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj$Y3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PSh?",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SSShP&",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PWSh4&",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PWSh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|vh0",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vPPj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "uij2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "AABBf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh8(",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhH(",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhX(",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhh(",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "3P9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@[_^",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vWr\n@;\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "~\f_^",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j,hX)",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t{9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "8\t@uo9x",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\fu\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9^XQ",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\fu\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~Xu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\r9F\f|",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";]\fs",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";E\fs",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9^\\u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "YY8^",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j(h *",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j$h0*",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "M$Qj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E$_^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~\ft.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "M Qj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E _^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j-hp*",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wj8Y3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVWh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f||",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSVWh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|ej@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VPPP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSV3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|0j@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SPPP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\fSVWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh(/",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh8/",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhH/",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9u\ft)",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rh\f;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fVh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@h`$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}8j\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "?h`$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F Pj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rh\f;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "V RP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2j,h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Sj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "N\fQh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wj2j>h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Sj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh 1",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9E\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh@1",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "^9E\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j\"h`1",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2jKh`1",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh`2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhp2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vh<3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3j@hX3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2jPhX3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh 5",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j(h05",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh@5",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9x u\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhP5",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t'f9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh`5",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9x0u\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhp5",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9x@u\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\nf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2hW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9xPu\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9x`u\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\nf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "90t6",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}-Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9U\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9W`u\tf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9M\ftU9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u)Vh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h\r",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhP6",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "~p\u000bt",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h+",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh`6",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhp6",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tAf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2hx",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh(7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh87",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhH7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhX7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhh7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhx7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\nf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\nf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j h(8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh88",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhH8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j hX8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhh8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j hx8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9u\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9s\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9s<u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9s,u\rf9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9s\\u!f9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f90u;f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "{l\u000bu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2h\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "f9s\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Vj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "jHY3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVWh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f|y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "jdhP9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Vj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VVVQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "97u-Wh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j|h`9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j@Vj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj2hT",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2hp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VVVQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "97u-Wh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v}\u000bPj2j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j#V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j.V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j8hp9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "8{u%",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}\f+x\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "M\f_^",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t>W3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vPhd",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@9D$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSUVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][Y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\"f=\\",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CGGf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ">v3f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "<J@A;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "X_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\nQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\nQS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u.;V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\nX_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSUV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ".u&EEf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "YYt~E3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "+X_^][Y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\u000b@@f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": " t\ff",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v\fj2h\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v\fQj2h\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F\fu!",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "uBWSh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2hB",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u>WSSSS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2he",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2hE",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2hF",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][YY",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][Y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSUVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\rQj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^][Y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^][Y",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3j,S",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PSSS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PSSh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t5f=.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9.u?AA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fj\tWS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "YYf9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vWSt",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSV3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vu\u000bj2Wj4V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\fu\u000bj2Wj5V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\u000bj2Wj6V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\u000bj2Wj7V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vWSv",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "YWSv",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "U\fYj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "BL_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WVVVVVVV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VWWWWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$0j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u<8F",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\fF;u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_@[^",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "8-t\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "81t\n",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj4h8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "M\fQP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QPPj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PVh?",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u*9u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\f~\n%",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PVVV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t59u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0~\n%",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t&Ph",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v\fh$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|bVh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\rPV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\tWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QSVW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SUVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\t9]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|69]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|Ah@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "49>u",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";9\\$",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "P(_^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "P,_^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v9}\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9E\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9E\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fh@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RSVP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";}\fs",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t5S3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|$\fj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wu/j ",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h ",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vs\n@9\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "L$\f3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "5SVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9|$\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "~\ft'",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_@^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u@9G",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SuCj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "G\f;G",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";]\fs\f9~",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";E\fs8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\ft'",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tOVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j6U",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j7U",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "3^_][",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2jLhP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2j|hP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|$\f;",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PVh?",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VVVhH",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rj\tP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rj\nP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WWWh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rj\tP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Rj\nP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vu\u000bj3Sj,W",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\u000bj3Sj-W",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j\fhp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "99M\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "G;|$\f|",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|-Sj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wu/j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h#",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h*",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vs\n@9\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9}\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "YYud9~\ftmS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|$\fj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h.",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj2h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wu/j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j3hM",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tA97u$S",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j3hg",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3jQh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3jVh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9]\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQS3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WSSWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}\"SWSSWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\fWSSWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "}%SWSSWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj3h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "sVVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j6Sh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j6Sh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@WPW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9~Du/WWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj3h!",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\fSVWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t~9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "s@Y3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t4hd",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "|Ujd",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$$P",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$ P",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Wj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j6Vh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j6Vh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h\u000b",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9;u)9{",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h'",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h*",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j-Y3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6h@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Pj6hU",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WWWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9^DtQ",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PSVh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "utSSSS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_t4h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vj6h",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "^[t\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vt 9~\fv",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "G;~\fr",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$\fWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "jYh8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "jZh8",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "F\f9E\fs",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";;s9",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";F\fr\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u3!E",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$\fht",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j!hH",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PPVj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "+P V",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9F\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9D$\ft",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vu'9F",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FHWP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RPRP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@@_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVW3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CTWP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ClWP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vu#j",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VVVj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SVWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t%HHt",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "jhhP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\u000bVV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PVWh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vt\fP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_^][",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j0h@",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PPQS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u j\fS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "9^\fu",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v9~\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\u000bWW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PWVh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Mu\fj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PVhP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "tdSW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "\ru\rf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_[^]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$\\V3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PWUV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$pV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PWUV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t$pV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vt6Wh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vWUV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u\t9}",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WVWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QQSV",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "0SVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "v_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t!Hu7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t?SWj",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PPPh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QRPh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QRPh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QRPh",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\tWVS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\fWVS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NWVS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\fu\f",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u7WPS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "u&WVS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\f_^[]",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Y_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": ";D$\fv",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "L$\fu\t",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vhL7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vhP7",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WVS3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "D$\fd",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "l$\fP",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "vSVW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QPh?",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\fu=",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "E\fPS",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t!Ph",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "j ht",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "t\u000bh|",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetMTAThreadPoolMetrics",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ComSvcsLogError",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ComSvcsExceptionFilter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "COMResModuleInstance",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSFreeMemory",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSQuerySessionInformationW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSCloseServer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSEnumerateSessionsW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WTSOpenServerW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DeleteCriticalSection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "EnterCriticalSection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LeaveCriticalSection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrlenW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InterlockedIncrement",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrcmpW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CompareStringW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InterlockedDecrement",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetUserDefaultLCID",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CloseHandle",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetEvent",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetLastError",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetCurrentThread",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetCurrentThreadId",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WaitForSingleObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ResetEvent",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateEventW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrcpyW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrcatW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetVersionExA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DisableThreadLibraryCalls",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetModuleFileNameW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetCurrentProcess",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetFileAttributesW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FreeLibrary",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FormatMessageW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LoadLibraryW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetProcAddress",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InterlockedCompareExchange",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LoadLibraryA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetModuleHandleA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QueryPerformanceCounter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetTickCount",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetCurrentProcessId",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSystemTimeAsFileTime",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "TerminateProcess",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetUnhandledExceptionFilter",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "KERNEL32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wsprintfW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LoadStringW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PostThreadMessageW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "MsgWaitForMultipleObjects",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PeekMessageW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CloseDesktop",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetThreadDesktop",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetThreadDesktop",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenDesktopW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetWindowPos",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "MapWindowPoints",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetClientRect",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetWindowRect",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetDesktopWindow",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetProcessWindowStation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenWindowStationW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetProcessWindowStation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CloseWindowStation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetDlgItemTextW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "EndDialog",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DialogBoxParamW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "USER32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoTaskMemAlloc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoTaskMemFree",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoCancelCall",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoSetProxyBlanket",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoGetClassObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CLSIDFromString",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoCreateInstance",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoGetObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoDisableCallCancellation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoEnableCallCancellation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "StringFromGUID2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoGetInterceptorFromTypeInfo",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IIDFromString",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "StringFromCLSID",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoGetMalloc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoGetObjectContext",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FreePropVariantArray",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PropVariantClear",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PropVariantCopy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoUnmarshalInterface",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoCreateGuid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "StringFromIID",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoUninitialize",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoInitializeEx",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoRevokeClassObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoRegisterClassObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoRevertToSelf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoMarshalInterface",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CoImpersonateClient",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateStreamOnHGlobal",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ole32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OLEAUT32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetThreadToken",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenThreadToken",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegCloseKey",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegSetValueExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegCreateKeyExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegDeleteKeyW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegOpenKeyExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenProcessToken",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetUserNameW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegQueryValueExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DeregisterEventSource",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ReportEventW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegisterEventSourceW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "AllocateAndInitializeSid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FreeSid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetSecurityDescriptorDacl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetSecurityDescriptorSacl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetSecurityDescriptorGroup",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetSecurityDescriptorOwner",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InitializeSecurityDescriptor",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CheckTokenMembership",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "EqualSid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetTokenInformation",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSidSubAuthority",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSidSubAuthorityCount",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSidIdentifierAuthority",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IsValidSid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LookupAccountSidW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSecurityDescriptorLength",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "AddAccessAllowedAce",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InitializeAcl",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetLengthSid",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegEnumKeyExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetServiceStatus",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QueryServiceStatus",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ControlService",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CloseServiceHandle",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ChangeServiceConfig2W",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateServiceW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ChangeServiceConfigW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenServiceW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OpenSCManagerW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DeleteService",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegDeleteValueW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegisterServiceCtrlHandlerW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ADVAPI32.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrDllGetClassObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrCStdStubBuffer_Release",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrCStdStubBuffer2_Release",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrDllRegisterProxy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrDllUnregisterProxy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_DebugServerRelease",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_DebugServerQueryInterface",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_CountRefs",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_IsIIDSupported",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_Invoke",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_Disconnect",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_Connect",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_AddRef",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CStdStubBuffer_QueryInterface",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrStubCall2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrStubForwardingFunction",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IUnknown_Release_Proxy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IUnknown_AddRef_Proxy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IUnknown_QueryInterface_Proxy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrOleFree",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NdrOleAllocate",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RPCRT4.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VerQueryValueW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VERSION.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_except_handler3",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_local_unwind2",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_itow",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "free",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "malloc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "iswctype",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_wcsnicmp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcscmp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_wcsicmp",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcscat",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcslen",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcscpy",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcstoul",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcsstr",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_wcsupr",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_beginthreadex",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_vsnprintf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_snwprintf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "wcsrchr",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_vsnwprintf",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_waccess",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "__CxxFrameHandler",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_wstrtime",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_wstrdate",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_initterm",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_adjust_fdiv",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "msvcrt.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "__dllonexit",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "_onexit",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RtlDeleteCriticalSection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RtlInitializeCriticalSectionAndSpinCount",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RtlSplay",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RtlDelete",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ntdll.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DelayLoadFailureHook",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ReleaseMutex",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DebugBreak",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RaiseException",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateFileW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetWindowsDirectoryW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateMutexW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetLocalTime",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "WriteFile",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetFilePointer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LocalFree",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InitializeCriticalSectionAndSpinCount",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSystemInfo",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateSemaphoreW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "Sleep",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ReleaseSemaphore",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrcpynW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetLastError",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetComputerNameW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetSystemDirectoryW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SearchPathW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VirtualFree",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "VirtualAlloc",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GlobalMemoryStatusEx",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetCommandLineW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateThread",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DuplicateHandle",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateEventA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InitializeCriticalSection",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ChangeTimerQueueTimer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "PostQueuedCompletionStatus",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DeleteTimerQueueTimer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InterlockedExchangeAdd",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "QueryPerformanceFrequency",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateIoCompletionPort",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "InterlockedExchange",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FreeLibraryAndExitThread",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetQueuedCompletionStatus",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetThreadPriority",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateTimerQueueTimer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OutputDebugStringA",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LockResource",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LoadResource",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FindResourceW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetModuleHandleW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FindClose",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DeleteFileW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "SetFileAttributesW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FindNextFileW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "lstrcmpiW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "FindFirstFileW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetExitCodeProcess",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateProcessW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "CreateDirectoryW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ExpandEnvironmentStringsW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "OutputDebugStringW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "GetThreadContext",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "IsDebuggerPresent",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LoadLibraryExW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "AdjustTokenPrivileges",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LookupPrivilegeValueW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegUnLoadKeyW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegLoadKeyW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegEnumValueW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegQueryInfoKeyW",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ES.dll",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DllRegisterServer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DllUnregisterServer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DllCanUnloadNow",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "DllGetClassObject",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "LCEControlServer",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NotifyLogoffUser",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "NotifyLogonUser",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegisterTheEventServiceAfterSetup",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "RegisterTheEventServiceDuringSetup",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "ServiceMain",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "@_^[",
+        "offset": "0x76ad0001"
+    },
+    {
+        "string": "MSFT",
+        "offset": "0x76ad0001"
+    }
+]
